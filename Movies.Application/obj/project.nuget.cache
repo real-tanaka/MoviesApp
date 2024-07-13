@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEllRKxVkuorB7T23T5g2U1HKyaaM5EULbW/M2zjI/QGQJuVzX4bJT59qlS+uC0wZdvEbjc3rcjCA0pqRMHWhQ==",
+  "success": true,
+  "projectFilePath": "/Volumes/Samsung_T5/Projects/MoviesApp/Movies.Application/Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/tanaka/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/tanaka/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/tanaka/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "/Users/tanaka/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/tanaka/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tanaka/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
